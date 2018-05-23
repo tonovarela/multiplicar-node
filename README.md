@@ -1,6 +1,6 @@
 ## MULTIPLICA console APP
 
-Esra es un aplicacion resultado del curso de Node Js
+Este es un aplicacion resultado del curso de Node Js
 
 
 Ejecutar este comando
